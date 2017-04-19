@@ -82,6 +82,9 @@
           <element id="library" level="project" name="Maven: org.apache.commons:commons-compress:1.9" />
           <element id="library" level="project" name="Maven: org.codehaus.plexus:plexus-utils:3.0.20" />
           <element id="library" level="project" name="Maven: org.sonatype.plexus:plexus-build-api:0.0.7" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-websocket:1.5.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-messaging:4.3.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-websocket:4.3.7.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-aop:1.5.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.7.RELEASE" />
           <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.9" />
@@ -91,6 +94,10 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.7.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.7.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-test:1.5.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-security:1.5.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-config:4.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-core:4.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-web:4.2.2.RELEASE" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.41" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-thymeleaf:1.5.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf-spring4:2.1.5.RELEASE" />
