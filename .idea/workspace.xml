@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9aa3bc2-4062-4e4b-b443-13039cadd1ab" name="Default" comment="chapter7:some front files">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_s_unknown.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_1_5_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_7_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/libraries/Maven__org_springframework_spring_websocket_4_3_7_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebMvcConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebSocketConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WiselyMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WiselyResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WsController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/http_code.jquery.com_jquery-3.1.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/sockjs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/stomp.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/templates/ws.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SpringBoot/src/main/webapp/WEB-INF/a.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/.idea/artifacts/SpringBoot_war_exploded.xml" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/artifacts/SpringBoot_war_exploded.xml" />
+    <list default="true" id="b9aa3bc2-4062-4e4b-b443-13039cadd1ab" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_1_5_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_2_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_2_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_2_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebSecurityConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/templates/chat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/templates/login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/SpringBoot.iml" afterPath="$PROJECT_DIR$/../SpringBoot/SpringBoot.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/pom.xml" afterPath="$PROJECT_DIR$/../SpringBoot/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/Application.java" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/Application.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebMvcConfig.java" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebMvcConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebSocketConfig.java" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebSocketConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WsController.java" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WsController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../SpringBoot/out/" />
     <ignored path="$PROJECT_DIR$/../SpringBoot/target/" />
@@ -45,12 +35,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../SpringBoot/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="52" column="49" lean-forward="true" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+            <state relative-caret-position="344">
+              <caret line="57" column="49" lean-forward="true" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebSecurityConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="45" column="59" lean-forward="false" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,12 +60,10 @@
       <file leaf-file-name="WebSocketConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebSocketConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="399">
+              <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#848#849#0" expanded="true" />
-                <element signature="e#901#902#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,11 +99,31 @@
       <file leaf-file-name="WsController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WsController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <state relative-caret-position="144">
+              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/resources/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chat.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/resources/templates/chat.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -120,11 +140,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebMvcConfig.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WebMvcConfig.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebMvcConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="58" lean-forward="false" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+            <state relative-caret-position="304">
+              <caret line="16" column="63" lean-forward="false" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,8 +158,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="XHTML File" />
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -163,13 +183,16 @@
         <option value="$PROJECT_DIR$/../SpringBoot/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WiselyMessage.java" />
         <option value="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WiselyResponse.java" />
-        <option value="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WsController.java" />
         <option value="$PROJECT_DIR$/../SpringBoot/src/main/resources/templates/ws.xhtml" />
-        <option value="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebMvcConfig.java" />
-        <option value="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebSocketConfig.java" />
         <option value="$PROJECT_DIR$/../SpringBoot/src/main/resources/templates/ws.html" />
         <option value="$PROJECT_DIR$/../SpringBoot/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/../SpringBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WsController.java" />
+        <option value="$PROJECT_DIR$/../SpringBoot/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/../SpringBoot/src/main/resources/templates/chat.html" />
+        <option value="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebMvcConfig.java" />
       </list>
     </option>
   </component>
@@ -879,7 +902,7 @@
       <workItem from="1492584086900" duration="4513000" />
       <workItem from="1492588868701" duration="491000" />
       <workItem from="1492589639345" duration="1817000" />
-      <workItem from="1492591642324" duration="4093000" />
+      <workItem from="1492591642324" duration="6522000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1492584934034</created>
@@ -902,11 +925,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492588403117</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chapter7:broadcast websocket">
+      <created>1492599014773</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1492599014773</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10914000" />
+    <option name="totallyTimeSpent" value="13343000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -958,7 +988,8 @@
     <MESSAGE value="start" />
     <MESSAGE value="chapter6" />
     <MESSAGE value="chapter7:some front files" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter7:some front files" />
+    <MESSAGE value="chapter7:broadcast websocket" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter7:broadcast websocket" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1213,6 +1244,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1221,6 +1253,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1277,16 +1310,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebMvcConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="58" lean-forward="false" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WiselyResponse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -1310,18 +1333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebSocketConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/resources/templates/ws.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -1340,21 +1351,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WsController.java">
+    <entry file="file://$PROJECT_DIR$/../SpringBoot/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        <state relative-caret-position="344">
+          <caret line="57" column="49" lean-forward="true" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="45" column="59" lean-forward="false" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SpringBoot/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebSocketConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="52" column="49" lean-forward="true" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+        <state relative-caret-position="399">
+          <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/resources/templates/chat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="63" lean-forward="false" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
