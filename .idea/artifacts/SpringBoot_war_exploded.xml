@@ -14,7 +14,6 @@
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-logging:1.5.2.RELEASE" />
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.1.11" />
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.1.11" />
-          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.24" />
           <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.24" />
           <element id="library" level="project" name="Maven: org.slf4j:jul-to-slf4j:1.7.24" />
           <element id="library" level="project" name="Maven: org.slf4j:log4j-over-slf4j:1.7.24" />
@@ -93,6 +92,15 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.7.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-test:1.5.2.RELEASE" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.41" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-thymeleaf:1.5.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf-spring4:2.1.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf:2.1.5.RELEASE" />
+          <element id="library" level="project" name="Maven: ognl:ognl:3.0.8" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.21.0-GA" />
+          <element id="library" level="project" name="Maven: org.unbescape:unbescape:1.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.24" />
+          <element id="library" level="project" name="Maven: nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:1.4.0" />
+          <element id="library" level="project" name="Maven: org.codehaus.groovy:groovy:2.4.9" />
         </element>
       </element>
       <element id="directory" name="META-INF">
