@@ -9,19 +9,19 @@ import org.springframework.web.socket.config.annotation.StompEndpointRegistry;
 /**
  * Created by xdcao on 2017/4/19.
  */
-@Configuration
-@EnableWebSocketMessageBroker
-public class WebSocketConfig extends AbstractWebSocketMessageBrokerConfigurer{
-
-
-    @Override
-    public void registerStompEndpoints(StompEndpointRegistry stompEndpointRegistry) {
-        stompEndpointRegistry.addEndpoint("/endpointWisely").withSockJS();
-        stompEndpointRegistry.addEndpoint("endpointChat").withSockJS();
-    }
-
-    @Override
-    public void configureMessageBroker(MessageBrokerRegistry registry) {
-        registry.enableSimpleBroker("/queue","/topic");
-    }
-}
+//@Configuration
+//@EnableWebSocketMessageBroker
+//public class WebSocketConfig extends AbstractWebSocketMessageBrokerConfigurer{
+//
+//
+//    @Override
+//    public void registerStompEndpoints(StompEndpointRegistry stompEndpointRegistry) {
+//        stompEndpointRegistry.addEndpoint("/endpointWisely").withSockJS();
+//        stompEndpointRegistry.addEndpoint("endpointChat").withSockJS();
+//    }
+//
+//    @Override
+//    public void configureMessageBroker(MessageBrokerRegistry registry) {
+//        registry.enableSimpleBroker("/queue","/topic");
+//    }
+//}
