@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9aa3bc2-4062-4e4b-b443-13039cadd1ab" name="Default" comment="4.20">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_1_5_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_springsecurity4_2_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/CustomUserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/Msg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/SysRole.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/SysUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/SysUserRepository.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/angularjs1.6.1/angularjs1.6,1/angular-animate.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/angularjs1.6.1/angularjs1.6,1/angular-animate.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/angularjs1.6.1/angularjs1.6,1/angular-aria.js" />
@@ -39,13 +29,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/angularjs1.6.1/angularjs1.6,1/angular-touch.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/angularjs1.6.1/angularjs1.6,1/angular.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/angularjs1.6.1/angularjs1.6,1/angular.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/.idea/artifacts/SpringBoot_war_exploded.xml" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/artifacts/SpringBoot_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/SpringBoot.iml" afterPath="$PROJECT_DIR$/../SpringBoot/SpringBoot.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/pom.xml" afterPath="$PROJECT_DIR$/../SpringBoot/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebMvcConfig.java" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebMvcConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebSecurityConfig.java" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/MyApp/WebSecurityConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../SpringBoot/src/main/resources/1.sql" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/data.sql" />
     </list>
     <ignored path="$PROJECT_DIR$/../SpringBoot/out/" />
     <ignored path="$PROJECT_DIR$/../SpringBoot/target/" />
@@ -998,7 +981,7 @@
       <workItem from="1492588868701" duration="491000" />
       <workItem from="1492589639345" duration="1817000" />
       <workItem from="1492591642324" duration="21874000" />
-      <workItem from="1492733408737" duration="7020000" />
+      <workItem from="1492733408737" duration="7100000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1492584934034</created>
@@ -1049,15 +1032,21 @@
       <option name="project" value="LOCAL" />
       <updated>1492693823900</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="security">
+      <created>1492758494606</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1492758494606</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35715000" />
+    <option name="totallyTimeSpent" value="35795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1110,7 +1099,8 @@
     <MESSAGE value="chapter7:p2p websocket1" />
     <MESSAGE value="chapter8:data jpa" />
     <MESSAGE value="4.20" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.20" />
+    <MESSAGE value="security" />
+    <option name="LAST_COMMIT_MESSAGE" value="security" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
