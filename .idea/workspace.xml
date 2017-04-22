@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9aa3bc2-4062-4e4b-b443-13039cadd1ab" name="Default" comment="4.20">
+    <list default="true" id="b9aa3bc2-4062-4e4b-b443-13039cadd1ab" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/angularjs1.6.1/angularjs1.6,1/angular-animate.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/angularjs1.6.1/angularjs1.6,1/angular-animate.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/angularjs1.6.1/angularjs1.6,1/angular-aria.js" />
@@ -29,6 +29,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/angularjs1.6.1/angularjs1.6,1/angular-touch.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/angularjs1.6.1/angularjs1.6,1/angular.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/static/angularjs1.6.1/angularjs1.6,1/angular.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringBoot/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SpringBoot/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../SpringBoot/out/" />
     <ignored path="$PROJECT_DIR$/../SpringBoot/target/" />
@@ -981,7 +982,7 @@
       <workItem from="1492588868701" duration="491000" />
       <workItem from="1492589639345" duration="1817000" />
       <workItem from="1492591642324" duration="21874000" />
-      <workItem from="1492733408737" duration="7100000" />
+      <workItem from="1492733408737" duration="7769000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1492584934034</created>
@@ -1039,14 +1040,22 @@
       <option name="project" value="LOCAL" />
       <updated>1492758494606</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="4.20">
+      <created>1492758568530</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1492758568530</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35795000" />
+    <option name="totallyTimeSpent" value="36464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1098,9 +1107,9 @@
     <MESSAGE value="chapter7:p2p websocket" />
     <MESSAGE value="chapter7:p2p websocket1" />
     <MESSAGE value="chapter8:data jpa" />
-    <MESSAGE value="4.20" />
     <MESSAGE value="security" />
-    <option name="LAST_COMMIT_MESSAGE" value="security" />
+    <MESSAGE value="4.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1136,7 +1145,7 @@
         <state relative-caret-position="323">
           <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1295,7 +1304,7 @@
         <state relative-caret-position="447">
           <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
